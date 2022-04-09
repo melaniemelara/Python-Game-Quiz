@@ -6,7 +6,7 @@ A script based quiz game with Python. The player chooses a Marvel character, whi
 
 ## Helpful Links 
 [Top 15 Python Packages](https://python.land/top-15-python-packages)
-[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet)
 
 ## MIT License
 Copyright 2021 Melanie Melara
