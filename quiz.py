@@ -13,7 +13,8 @@ print(Back.RED + "========== WANDA ==========")
 print(Back.YELLOW + "========== IRON MAN ==========")
 print(Back.GREEN + "========== LOKI ==========")
 
-print(Fore.BLUE + "Let's begin!")
+print(Back.BLACK + "===========================================")
+print(Fore.WHITE + "Let's begin!")
 
 answer1 = questions["q1"][input(questions["q1"]["question"])]
 print(answer1)
